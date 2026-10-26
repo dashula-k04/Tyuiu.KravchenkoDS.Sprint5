@@ -1,7 +1,7 @@
 ﻿using Tyuiu.KravchenkoDS.Sprint5.Task1.V18.Lib;
 
 
-namespace Tyuiu.KravchenkoDS.Sprint5.Task1.V18_
+namespace Tyuiu.KravchenkoDS.Sprint5.Task1.V18
 {
     internal class Program
     {
