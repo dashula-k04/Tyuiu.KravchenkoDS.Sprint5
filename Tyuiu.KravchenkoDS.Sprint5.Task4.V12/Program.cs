@@ -24,7 +24,7 @@ namespace Tyuiu.KravchenkoDS.Sprint5.Task4.V12
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
             string path = Path.Combine("C:\\", "DataSprint5", "InPutDataFileTask4V12.txt");
-            Console.WriteLine("Данные находятся в файле");
+            Console.WriteLine("Данные находятся в файле:" + path);
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
